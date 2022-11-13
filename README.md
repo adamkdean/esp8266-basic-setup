@@ -1,8 +1,6 @@
 # esp8266-basic-setup
 
-This repo documents a basic setup for working with the ESP8266. It is intended to be a starting point for new projects.
-
-Specifically, this is for the [Adafruit Feather Huzzah](https://www.adafruit.com/product/2821) (`esp8266:esp8266:huzzah`).
+This repo documents a basic setup for working with the ESP8266. It is intended to be a starting point for new projects. Specifically, this is for the [Adafruit Feather Huzzah](https://www.adafruit.com/product/2821) (`esp8266:esp8266:huzzah`).
 
 ## Initial setup
 
